@@ -1,7 +1,7 @@
 {
   "languageSelector": {
     "message": "Language",
-    "context": "Language as a single word used in the langiage selection menu."
+    "context": "Language as a single word used in the LANGUAGE selection menu."
   },
   "chosenLanguage": {
     "message": "English",
